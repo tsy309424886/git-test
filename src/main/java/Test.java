@@ -4,7 +4,9 @@
 public class Test {
     private String name;
     private String password;
-
+    public void test(){
+        System.out.println("6bu6");
+    }
     public String getName() {
         return name;
     }
